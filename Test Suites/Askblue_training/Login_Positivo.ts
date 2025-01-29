@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Login_Positivo</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>ff3240be-ab24-4add-8fe4-6106e6c8f295</testSuiteGuid>
+   <testCaseLink>
+      <guid>c28dc419-69e7-4d28-b2c6-fe0884f1ff96</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Askblue_Training/Login_Positivo</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8062828f-9e69-411a-b3bd-ab3acafd2ee5</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Askblue_training/validUsers</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>8062828f-9e69-411a-b3bd-ab3acafd2ee5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>8df90852-d39f-4c86-845d-7744bdc2469b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8062828f-9e69-411a-b3bd-ab3acafd2ee5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>e214b114-9d08-48cb-9b63-b1771cfdc4c5</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

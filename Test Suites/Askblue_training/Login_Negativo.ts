@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Login_Negativo</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>fb08b6f0-3c42-4eef-84a4-b6f2300516de</testSuiteGuid>
+   <testCaseLink>
+      <guid>2be55d0a-55ee-4810-9901-627a5803270c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Askblue_Training/Login_Negativo_UserPassVazio</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fd153ea5-cbcf-4670-bf22-836e3fba3248</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Askblue_Training/Login_Negativo_UserBloqueado</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d009e595-4eb1-4866-81b7-03d812c8c1be</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c01352e7-279f-49e1-a7c6-2be7d49f5e42</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>482e101c-06b3-4c3b-a5f5-81fa54a5de82</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Askblue_Training/Login_Negativo_PassVazia</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>eefd92fd-ecba-44f7-83cf-824520d14219</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e84ec849-f8cb-45ae-84e9-0fc7a16d45fa</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>901a8d4a-ab9e-4a3f-b232-d8dbac41f9c9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Askblue_Training/Login_Negativo_PassIncorreta</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5388ba0a-3cb4-464e-846b-e0d2d7ad05b0</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Askblue_training/lockedUsers</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>5388ba0a-3cb4-464e-846b-e0d2d7ad05b0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>5f50b82c-12e1-4416-a8a5-7412751fd146</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5388ba0a-3cb4-464e-846b-e0d2d7ad05b0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>f498ab71-2e0a-4ee3-ac94-d6cdbfc470dd</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
