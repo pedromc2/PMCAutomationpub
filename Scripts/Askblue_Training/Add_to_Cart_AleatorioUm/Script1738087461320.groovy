@@ -36,3 +36,4 @@ WebUI.click(findTestObject(addToCart_Aleatorio))
 
 WebUI.verifyElementText(findTestObject('Page_Swag Labs/icone_Carrinho'), '1')
 
+//comentario111111
