@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Search results Over 1,000 places in Atla_23c062</name>
+   <tag></tag>
+   <elementGuidId>46872ced-c9cc-4f83-8b08-72272fdcfeef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.hpipapi.atm_7l_1kw7nm4.atm_c8_1x4eueo.atm_cs_1kw7nm4.atm_g3_1kw7nm4.atm_gi_idpfg4.atm_l8_idpfg4.atm_kd_idpfg4_pfnrn2.dir.dir-ltr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='site-content']/div/div/div/div/div/section/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>edd18bd0-3456-44ff-8d71-c3602e0d822f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>641ea0bc-2e47-4ee6-9785-2bf8af472e04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hpipapi atm_7l_1kw7nm4 atm_c8_1x4eueo atm_cs_1kw7nm4 atm_g3_1kw7nm4 atm_gi_idpfg4 atm_l8_idpfg4 atm_kd_idpfg4_pfnrn2 dir dir-ltr</value>
+      <webElementGuid>bc45d6a1-0b70-4c28-bf3f-24f513f73f65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>elementtiming</name>
+      <type>Main</type>
+      <value>LCP-target</value>
+      <webElementGuid>c3d94b97-a041-4149-a79f-853419e3ad4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search results; Over 1,000 places in AtlantaOver 1,000 places in Atlanta</value>
+      <webElementGuid>a3ba7d10-a235-41b4-a761-aa38b54909e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-content&quot;)/div[@class=&quot;l196t2l1 atm_gz_p5ox87 atm_h0_p5ox87 atm_gq_r5k8ab atm_gz_1od0ugv__oggzyc atm_h0_1od0ugv__oggzyc atm_gq_idpfg4__oggzyc atm_gz_p5ox87__1v156lz atm_h0_p5ox87__1v156lz atm_gq_idpfg4__1v156lz dir dir-ltr&quot;]/div[@class=&quot;fifuzsw atm_gq_p5ox87 atm_h3_p5ox87 dir dir-ltr&quot;]/div[@class=&quot;c1yo0219 atm_9s_1txwivl_vmtskl atm_92_1yyfdc7_vmtskl atm_9s_1txwivl_9in345 atm_92_1yyfdc7_9in345 dir dir-ltr&quot;]/div[1]/div[@class=&quot;t17a5psn atm_9s_1txwivl atm_ar_1bp4okc atm_cx_evh4rp dir dir-ltr&quot;]/section[1]/h1[@class=&quot;hpipapi atm_7l_1kw7nm4 atm_c8_1x4eueo atm_cs_1kw7nm4 atm_g3_1kw7nm4 atm_gi_idpfg4 atm_l8_idpfg4 atm_kd_idpfg4_pfnrn2 dir dir-ltr&quot;]</value>
+      <webElementGuid>a815d1cf-3a2e-4f35-8d67-2f4929821cc4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='site-content']/div/div/div/div/div/section/h1</value>
+      <webElementGuid>8eb1a886-3020-47e5-986a-9659a6c49675</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show map'])[1]/following::h1[1]</value>
+      <webElementGuid>4a6b8558-bc04-494a-9c08-d103e54db9e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filters'])[1]/following::h1[1]</value>
+      <webElementGuid>e62b5829-c7ae-4a41-b62a-c1134a90c06a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guest favorite'])[1]/preceding::h1[1]</value>
+      <webElementGuid>19f7f7db-075d-4437-a12b-c344f6adbf32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>9f85cfb5-253d-4f02-8110-9b13ea8cc727</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Search results; Over 1,000 places in AtlantaOver 1,000 places in Atlanta' or . = 'Search results; Over 1,000 places in AtlantaOver 1,000 places in Atlanta')]</value>
+      <webElementGuid>deaad67c-e6f8-46df-9d26-4f8ed5ec9b8d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
