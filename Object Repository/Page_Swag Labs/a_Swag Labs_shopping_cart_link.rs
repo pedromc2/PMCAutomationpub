@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d316c63a-71b9-42ad-b6cf-a5b16df93088</webElementGuid>
+      <webElementGuid>df4bf096-5181-427d-989b-a632aa94d465</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>shopping_cart_link</value>
-      <webElementGuid>bc9c138b-f26b-4cf6-acaf-f9c16702a853</webElementGuid>
+      <webElementGuid>16037332-46c4-4a51-a368-8efe45c5fa9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-test</name>
       <type>Main</type>
       <value>shopping-cart-link</value>
-      <webElementGuid>82c6e486-fef4-4e17-a21b-ae1f1b1e1b32</webElementGuid>
+      <webElementGuid>b52d0f9b-5294-41eb-a1fe-0208549ac332</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;shopping_cart_container&quot;)/a[@class=&quot;shopping_cart_link&quot;]</value>
-      <webElementGuid>6b40e351-7ec0-4f83-aa18-88d5540c9cc3</webElementGuid>
+      <webElementGuid>7c6bf1d0-9683-4fca-9625-79681e1f8344</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='shopping_cart_container']/a</value>
-      <webElementGuid>463c5255-f521-4fbe-9adf-7e99023d4977</webElementGuid>
+      <webElementGuid>12aa7870-709e-41da-9f7e-5d3456fe3abe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,6 +62,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/a</value>
-      <webElementGuid>3d583c59-4add-4bb7-9bbb-f85c1c3eb3ac</webElementGuid>
+      <webElementGuid>ed731ff3-9075-44f7-95f1-f074af011587</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

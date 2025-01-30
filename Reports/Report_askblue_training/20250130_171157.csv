@@ -1,0 +1,40 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test_Suite_Askblue_Training,Chrome 132.0.0.0,,,30-01-2025 17:12:00,30-01-2025 17:16:38,"4m - 38,515s",PASSED
+,,,,,,,
+Test Cases/Askblue_Training/Login_Logout/Login_Negativo_PassIncorreta,Chrome 132.0.0.0,Login com sucesso,,30-01-2025 17:12:00,30-01-2025 17:12:34,"34,485s",PASSED
+,,,,,,,
+Test Cases/Askblue_Training/Login_Logout/Login_Negativo_PassVazia,Chrome 132.0.0.0,Login com sucesso,,30-01-2025 17:12:34,30-01-2025 17:12:37,"3,006s",PASSED
+,,,,,,,
+Test Cases/Askblue_Training/Login_Logout/Login_Negativo_UserBloqueado,Chrome 132.0.0.0,Login com sucesso,,30-01-2025 17:12:37,30-01-2025 17:13:09,"31,188s",PASSED
+,,,,,,,
+Test Cases/Askblue_Training/Login_Logout/Login_Negativo_UserPassVazio,Chrome 132.0.0.0,Login com sucesso,,30-01-2025 17:13:09,30-01-2025 17:13:11,"2,211s",PASSED
+,,,,,,,
+Test Cases/Askblue_Training/Login_Logout/Login_Positivo,Chrome 132.0.0.0,Login com sucesso,,30-01-2025 17:13:11,30-01-2025 17:13:15,"3,989s",PASSED
+,,,,,,,
+Test Cases/Askblue_Training/Login_Logout/Logout,Chrome 132.0.0.0,,,30-01-2025 17:13:15,30-01-2025 17:13:20,"5,285s",PASSED
+,,,,,,,
+Test Cases/Askblue_Training/Add_to_Cart/Add_to_Cart_1,Chrome 132.0.0.0,,,30-01-2025 17:13:20,30-01-2025 17:13:27,"6,490s",PASSED
+,,,,,,,
+Test Cases/Askblue_Training/Add_to_Cart/Add_to_Cart_AleatorioUm,Chrome 132.0.0.0,,,30-01-2025 17:13:27,30-01-2025 17:13:33,"6,825s",PASSED
+,,,,,,,
+Test Cases/Askblue_Training/Add_to_Cart/Add_to_Cart_AleatorioVarios,Chrome 132.0.0.0,Adiciona vários itens aleatorios (entre 2 e max-1)  ao carrinho e verifica se o item está dentro d carrinho e se o preço corresponde ao preço apresentado no ecrã inicial,,30-01-2025 17:13:33,30-01-2025 17:13:49,"15,137s",PASSED
+,,,,,,,
+Test Cases/Askblue_Training/Add_to_Cart/Add_to_Cart_Todos,Chrome 132.0.0.0,Adiciona todos os itens ao carrinho e verifica se o item está dentro d carrinho e se o preço corresponde ao preço apresentado no ecrã inicial,,30-01-2025 17:13:49,30-01-2025 17:14:18,"29,022s",PASSED
+,,,,,,,
+Test Cases/Askblue_Training/Add_to_Cart/Add_to_Cart_Todos_Record,Chrome 132.0.0.0,Adiciona todos os itens ao carrinho,,30-01-2025 17:14:18,30-01-2025 17:14:26,"8,275s",PASSED
+,,,,,,,
+Test Cases/Askblue_Training/Remove_from_Cart/Remove_from_Cart_1,Chrome 132.0.0.0,,,30-01-2025 17:14:26,30-01-2025 17:14:33,"7,144s",PASSED
+,,,,,,,
+Test Cases/Askblue_Training/Remove_from_Cart/Remove_from_Cart_AleatorioUm,Chrome 132.0.0.0,,,30-01-2025 17:14:33,30-01-2025 17:14:40,"7,401s",PASSED
+,,,,,,,
+Test Cases/Askblue_Training/Remove_from_Cart/Remove_from_Cart_AleatórioVários,Chrome 132.0.0.0,Adiciona um número aleatório de itens ao carrinho (entre 2 e todos -1) e remove um numero aleatório de itens do carrinho (entre 1 e todos -1),,30-01-2025 17:14:40,30-01-2025 17:15:02,"21,419s",PASSED
+,,,,,,,
+Test Cases/Askblue_Training/Remove_from_Cart/Remove_from_Cart_Todos,Chrome 132.0.0.0,,,30-01-2025 17:15:02,30-01-2025 17:15:32,"30,332s",PASSED
+,,,,,,,
+Test Cases/Askblue_Training/Ordenar/Ordernar_High_to_Low,Chrome 132.0.0.0,,,30-01-2025 17:15:32,30-01-2025 17:15:40,"7,989s",PASSED
+,,,,,,,
+Test Cases/Askblue_Training/Finalizar_CompraE2E/Finalizar_Compra_1,Chrome 132.0.0.0,,,30-01-2025 17:15:40,30-01-2025 17:15:40,"0,032s",PASSED
+,,,,,,,
+Test Cases/Askblue_Training/Finalizar_CompraE2E/Finalizar_Compra_Record,Chrome 132.0.0.0,,,30-01-2025 17:15:40,30-01-2025 17:15:57,"16,970s",PASSED
+,,,,,,,
+Test Cases/Askblue_Training/Finalizar_CompraE2E/Finalizar_Compra_Todos,Chrome 132.0.0.0,,,30-01-2025 17:15:57,30-01-2025 17:16:37,"39,990s",PASSED

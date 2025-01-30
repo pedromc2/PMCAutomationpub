@@ -17,38 +17,53 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Askblue_Training/Login_Logout/Login_Positivo'), [('username') : 'standard_user', ('password') : 'secret_sauce'], 
-    FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Add to cart_4'))
-
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/a_1'))
+WebUI.callTestCase(findTestCase('Askblue_Training/Add_to_Cart/Add_to_Cart_Todos_Record'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Checkout'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_Checkout Your Information_firstName'), 'Test')
+WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_Checkout Your Information_firstName'), 'João')
 
-WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_Checkout Your Information_lastName'), 'Test')
+WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_Checkout Your Information_lastName'), 'Silva')
 
 WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_Checkout Your Information_postalCode'), '1000-001')
 
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/input_Cancel_continue'))
 
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/div_Sauce Labs Backpack'), 'Sauce Labs Backpack')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/div_29.99'), '$29.99')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/div_Sauce Labs Bike Light'), 'Sauce Labs Bike Light')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/div_9.99'), '$9.99')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/div_Sauce Labs Bolt T-Shirt'), 'Sauce Labs Bolt T-Shirt')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/div_15.99'), '$15.99')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/div_Sauce Labs Fleece Jacket'), 'Sauce Labs Fleece Jacket')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/div_49.99'), '$49.99')
+
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/div_Sauce Labs Onesie'), 'Sauce Labs Onesie')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/div_7.99'), '$7.99')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/div_Item total 7.99'), 'Item total: $7.99')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/div_Test.allTheThings() T-Shirt (Red)'), 'Test.allTheThings() T-Shirt (Red)')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/div_Tax 0.64'), 'Tax: $0.64')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/div_15.99'), '$15.99')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/div_Total 8.63'), 'Total: $8.63')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/div_Item total 129.94'), 'Item total: $129.94')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/div_Tax 10.40'), 'Tax: $10.40')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/div_Total 140.34'), 'Total: $140.34')
 
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Finish'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/h2_Thank you for your order'), 'Thank you for your order!')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/span_Checkout Complete'), 'Checkout: Complete!')
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Back Home'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/button_Back Home'), 'Back Home')
+WebUI.closeBrowser()
 

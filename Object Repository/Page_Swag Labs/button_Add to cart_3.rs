@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a0ed05bc-7ba2-4d2d-a38c-1a96eef4878b</webElementGuid>
+      <webElementGuid>af27342b-cb35-4ed6-bdcb-fbd8e60e7653</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn_primary btn_small btn_inventory </value>
-      <webElementGuid>1bd015e8-b851-4aba-b3b0-212caea7d065</webElementGuid>
+      <webElementGuid>e376a6c5-1ee6-4e70-b989-94bc940bb33e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-test</name>
       <type>Main</type>
       <value>add-to-cart-sauce-labs-fleece-jacket</value>
-      <webElementGuid>5da361e1-e088-474c-8d86-47e083b3f23d</webElementGuid>
+      <webElementGuid>18a6fbcc-7dd1-47f6-af55-a796517dd18f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>add-to-cart-sauce-labs-fleece-jacket</value>
-      <webElementGuid>ec1a339f-a74f-476f-bc94-876784bba0ea</webElementGuid>
+      <webElementGuid>1e9edbdc-c7da-4b9a-8809-29d1f167169b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>add-to-cart-sauce-labs-fleece-jacket</value>
-      <webElementGuid>f0251cf7-cfce-45bc-8d88-abc0f96979c3</webElementGuid>
+      <webElementGuid>d4529823-4044-4365-8091-260f6933b26a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Add to cart</value>
-      <webElementGuid>5ae363b0-2218-415d-bab5-7bb34a1c72ec</webElementGuid>
+      <webElementGuid>e87b5258-7d07-4fe6-bfda-d1bbe4276283</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;add-to-cart-sauce-labs-fleece-jacket&quot;)</value>
-      <webElementGuid>80770e93-5fc5-4558-96b1-3b341441b8d7</webElementGuid>
+      <webElementGuid>f9cc5c01-5018-40cf-b640-4c1c8ed9979e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='add-to-cart-sauce-labs-fleece-jacket']</value>
-      <webElementGuid>73598593-042d-4717-a6fd-d727d57a4888</webElementGuid>
+      <webElementGuid>ad250e0b-6d8a-4ad3-b24b-7639110148f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='inventory_container']/div/div[4]/div[2]/div[2]/button</value>
-      <webElementGuid>99d8a382-829d-4f93-9e58-86d8afc37830</webElementGuid>
+      <webElementGuid>0538d78d-8f3d-4076-b84e-6b9b2fd1a8f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='$49.99'])[1]/following::button[1]</value>
-      <webElementGuid>0e21e9ac-677b-4903-aaed-0792f97384bb</webElementGuid>
+      <webElementGuid>24dc9e86-04bb-43e0-812f-bca5ceaa2042</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sauce Labs Fleece Jacket'])[1]/following::button[1]</value>
-      <webElementGuid>062237fc-be73-453f-9d34-b6a92562d2db</webElementGuid>
+      <webElementGuid>85b61bdc-7dff-403d-bb96-9b516ece012e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sauce Labs Onesie'])[1]/preceding::button[1]</value>
-      <webElementGuid>8296d1e3-960d-42ec-ae07-c24212e52331</webElementGuid>
+      <webElementGuid>afda3826-817d-4f17-8ae0-df4a422bf066</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='$7.99'])[1]/preceding::button[1]</value>
-      <webElementGuid>71dfa216-bb48-4fb1-9409-720d2f14a8f2</webElementGuid>
+      <webElementGuid>08bbb7ad-98db-4e2f-afe2-c651ab7858a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Add to cart']/parent::*</value>
-      <webElementGuid>5d87ab50-e1bd-4582-8259-552dfe2411be</webElementGuid>
+      <webElementGuid>dc585b29-972a-4a59-b5c2-223903c820d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/div[2]/button</value>
-      <webElementGuid>f818a057-8269-49f5-95bc-6aa2c060a85d</webElementGuid>
+      <webElementGuid>f1b1f787-5468-467d-a79c-96519af130a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'add-to-cart-sauce-labs-fleece-jacket' and @name = 'add-to-cart-sauce-labs-fleece-jacket' and (text() = 'Add to cart' or . = 'Add to cart')]</value>
-      <webElementGuid>b344ee60-b51d-430e-abdc-c244e961f100</webElementGuid>
+      <webElementGuid>0b1a59a0-78f2-4f54-b60c-55a915d8ad7f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

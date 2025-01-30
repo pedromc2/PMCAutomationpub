@@ -14,8 +14,8 @@ import internal.GlobalVariable as GlobalVariable
 
 Map<String, String> suiteProperties = new HashMap<String, String>();
 
-suiteProperties.put('id', 'Test Suites/Askblue_training/Login_Positivo')
-suiteProperties.put('name', 'Login_Positivo')
+suiteProperties.put('id', 'Test Suites/Askblue_training/Test_Suite_Askblue_Training')
+suiteProperties.put('name', 'Test_Suite_Askblue_Training')
 suiteProperties.put('description', '')
 suiteProperties.put('rerunTestFailImmediately', 'false')
 suiteProperties.put('retryCount', '0')
@@ -29,8 +29,8 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.t
 
 
 
-RunConfiguration.setExecutionSettingFile("C:\\Users\\Pedro Carreira\\PMCAutomationpub\\Reports\\20250130_163717\\Askblue_training\\Login_Positivo\\20250130_163717\\execution.properties")
+RunConfiguration.setExecutionSettingFile("C:\\Users\\Pedro Carreira\\PMCAutomationpub\\Reports\\20250130_171156\\Askblue_training\\Test_Suite_Askblue_Training\\20250130_171157\\execution.properties")
 
 TestCaseMain.beforeStart()
 
-TestCaseMain.startTestSuite('Test Suites/Askblue_training/Login_Positivo', suiteProperties, new File("C:\\Users\\Pedro Carreira\\PMCAutomationpub\\Reports\\20250130_163717\\Askblue_training\\Login_Positivo\\20250130_163717\\testCaseBinding"))
+TestCaseMain.startTestSuite('Test Suites/Askblue_training/Test_Suite_Askblue_Training', suiteProperties, new File("C:\\Users\\Pedro Carreira\\PMCAutomationpub\\Reports\\20250130_171156\\Askblue_training\\Test_Suite_Askblue_Training\\20250130_171157\\testCaseBinding"))

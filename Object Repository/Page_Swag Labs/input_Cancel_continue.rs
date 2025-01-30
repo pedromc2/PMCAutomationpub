@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b44e0df9-c313-4099-88ce-02eb03e2e235</webElementGuid>
+      <webElementGuid>51962ace-fa10-4620-997c-2182af148d46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>671b947f-d03b-4807-8fa8-ca132790cb57</webElementGuid>
+      <webElementGuid>d25553ff-da1e-4993-83c3-e972cc06d4be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>submit-button btn btn_primary cart_button btn_action</value>
-      <webElementGuid>fe7581d0-480f-4896-b9ba-abfd1eceb1f4</webElementGuid>
+      <webElementGuid>68262d42-b2c2-487c-bb4f-301c1a95dadc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-test</name>
       <type>Main</type>
       <value>continue</value>
-      <webElementGuid>9abc6744-602c-401b-adbb-274503c4aad9</webElementGuid>
+      <webElementGuid>c38f84ff-aec4-4059-960b-175d8f2541c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>continue</value>
-      <webElementGuid>a7cd9e4a-6df2-4ca9-9819-4e49abf87610</webElementGuid>
+      <webElementGuid>e7635a0d-afbf-4856-896d-1198915e3184</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>name</name>
       <type>Main</type>
       <value>continue</value>
-      <webElementGuid>b6f95c1a-29c8-4b7e-a810-ffd19a10510e</webElementGuid>
+      <webElementGuid>0d24d729-5286-4861-9250-29577366ecc2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Continue</value>
-      <webElementGuid>24fb679b-4be4-4d8d-abe4-62c64f2b0bcd</webElementGuid>
+      <webElementGuid>eccf9cad-f14a-4e89-89f8-ae5bf2bc731c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;continue&quot;)</value>
-      <webElementGuid>7ab93ee0-adc3-430b-b438-1f4e35cb2a18</webElementGuid>
+      <webElementGuid>4f88dc2e-0bf9-459d-8410-8ed161e5216e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='continue']</value>
-      <webElementGuid>bc706021-3ab5-44f5-9733-b75345794165</webElementGuid>
+      <webElementGuid>e90d89af-0925-4de2-96f2-872b2082ab77</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='checkout_info_container']/div/form/div[2]/input</value>
-      <webElementGuid>36838209-62e4-431b-8003-bd459a8281f8</webElementGuid>
+      <webElementGuid>857877b8-4acd-478d-994d-a29a053285b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>59d00e9e-9f72-4a7a-85f8-fdd9ffb286b3</webElementGuid>
+      <webElementGuid>fc539df2-bd49-4cde-b9b2-0d8f58980a0f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit' and @id = 'continue' and @name = 'continue']</value>
-      <webElementGuid>931f69fa-4f77-40d3-b181-5b16a002d61b</webElementGuid>
+      <webElementGuid>3821e8a3-cccd-4a65-8186-e22adbd7c922</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

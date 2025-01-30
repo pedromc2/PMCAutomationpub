@@ -18,9 +18,9 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.w
 DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.testng.keyword.internal.TestNGDriverCleaner())
 
 
-RunConfiguration.setExecutionSettingFile('C:\\Users\\PEDROC~1\\AppData\\Local\\Temp\\Katalon\\Test Cases\\Askblue_Training\\Add_to_Cart\\Add_to_Cart_AleatorioVarios\\20250130_153600\\execution.properties')
+RunConfiguration.setExecutionSettingFile('C:\\Users\\PEDROC~1\\AppData\\Local\\Temp\\Katalon\\20250130_163918\\execution.properties')
 
 TestCaseMain.beforeStart()
 
-        TestCaseMain.runTestCase('Test Cases/Askblue_Training/Add_to_Cart/Add_to_Cart_AleatorioVarios', new TestCaseBinding('Test Cases/Askblue_Training/Add_to_Cart/Add_to_Cart_AleatorioVarios',[:]), FailureHandling.STOP_ON_FAILURE , false)
+        TestCaseMain.runTestCase('', new TestCaseBinding('',[:]), FailureHandling.STOP_ON_FAILURE , false)
     

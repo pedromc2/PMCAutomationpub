@@ -21,27 +21,29 @@ WebUI.callTestCase(findTestCase('Askblue_Training/Login_Logout/Login_Positivo'),
 
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Add to cart_0'))
 
-WebUI.verifyElementText(findTestObject('Page_Swag Labs/icone_Carrinho'), '1')
-
-WebUI.click(findTestObject('Page_Swag Labs/button_Add to cart_2'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/icone_Carrinho'), '2')
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Add to cart_1'))
 
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Add to cart_2'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/icone_Carrinho'), '3')
-
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Add to cart_3'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/icone_Carrinho'), '4')
 
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Add to cart_4'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/icone_Carrinho'), '5')
-
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Add to cart_5'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/icone_Carrinho'), '6')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/icone_carrinho'), '6')
 
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/icone_carrinho'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/div_Sauce Labs Backpack'), 'Sauce Labs Backpack')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/div_Sauce Labs Bike Light'), 'Sauce Labs Bike Light')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/div_Sauce Labs Bolt T-Shirt'), 'Sauce Labs Bolt T-Shirt')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/div_Sauce Labs Fleece Jacket'), 'Sauce Labs Fleece Jacket')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/div_Sauce Labs Onesie'), 'Sauce Labs Onesie')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/div_Test.allTheThings() T-Shirt (Red)'), 'Test.allTheThings() T-Shirt (Red)')
 
