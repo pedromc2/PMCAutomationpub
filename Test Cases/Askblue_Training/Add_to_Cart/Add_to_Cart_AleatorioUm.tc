@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Adiciona um iten aleatorio ao carrinho e verifica o numero no icone do carrinho e se o item está dentro do carrinho e se o preço corresponde ao preço apresentado no ecrã inicial</description>
    <name>Add_to_Cart_AleatorioUm</name>
    <tag></tag>
    <comment></comment>

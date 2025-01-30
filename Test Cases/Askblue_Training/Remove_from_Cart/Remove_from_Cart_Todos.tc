@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Adiciona todos os itens e remove todos os itens</description>
    <name>Remove_from_Cart_Todos</name>
    <tag></tag>
    <comment></comment>

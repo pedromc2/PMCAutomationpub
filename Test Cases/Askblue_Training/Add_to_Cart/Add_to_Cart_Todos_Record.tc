@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Adiciona todos os itens ao carrinho</description>
+   <description>Adiciona todos os itens ao carrinho, obtido por &quot;record web&quot;</description>
    <name>Add_to_Cart_Todos_Record</name>
    <tag></tag>
    <comment></comment>

@@ -18,9 +18,9 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.w
 DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.testng.keyword.internal.TestNGDriverCleaner())
 
 
-RunConfiguration.setExecutionSettingFile('C:\\Users\\PEDROC~1\\AppData\\Local\\Temp\\Katalon\\Test Cases\\Askblue_Training\\Finalizar_CompraE2E\\Finalizar_Compra_Record\\20250130_170930\\execution.properties')
+RunConfiguration.setExecutionSettingFile('C:\\Users\\PEDROC~1\\AppData\\Local\\Temp\\Katalon\\Test Cases\\Askblue_Training\\Finalizar_CompraE2E\\Finalizar_Compra_1\\20250130_174125\\execution.properties')
 
 TestCaseMain.beforeStart()
 
-        TestCaseMain.runTestCase('Test Cases/Askblue_Training/Finalizar_CompraE2E/Finalizar_Compra_Record', new TestCaseBinding('Test Cases/Askblue_Training/Finalizar_CompraE2E/Finalizar_Compra_Record',[:]), FailureHandling.STOP_ON_FAILURE , false)
+        TestCaseMain.runTestCase('Test Cases/Askblue_Training/Finalizar_CompraE2E/Finalizar_Compra_1', new TestCaseBinding('Test Cases/Askblue_Training/Finalizar_CompraE2E/Finalizar_Compra_1',[:]), FailureHandling.STOP_ON_FAILURE , false)
     

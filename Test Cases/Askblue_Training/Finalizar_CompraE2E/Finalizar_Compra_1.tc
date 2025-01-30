@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Adiciona um item e finaliza a compra. verifica os preços finais</description>
    <name>Finalizar_Compra_1</name>
    <tag></tag>
    <comment></comment>

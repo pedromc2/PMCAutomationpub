@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Adiciona o primeiro item ao cart e verifica incremento do icone e presença do item no carrinho</description>
    <name>Add_to_Cart_1</name>
    <tag></tag>
    <comment></comment>
