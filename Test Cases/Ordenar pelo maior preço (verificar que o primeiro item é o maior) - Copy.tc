@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Ordenar pelo maior preço (verificar que o primeiro item é o maior) - Copy</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>65f3a782-6f28-45c2-8b0c-b7a3dbf8084b</testCaseGuid>
-</TestCaseEntity>

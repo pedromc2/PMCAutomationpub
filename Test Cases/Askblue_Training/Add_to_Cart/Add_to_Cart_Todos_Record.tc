@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Adiciona todos os itens ao carrinho</description>
+   <name>Add_to_Cart_Todos_Record</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30552079-17c0-499a-917a-8e331c0f82e0</testCaseGuid>
+</TestCaseEntity>

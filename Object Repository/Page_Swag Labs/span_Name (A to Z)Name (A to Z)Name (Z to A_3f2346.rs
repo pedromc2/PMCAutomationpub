@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>//div[@id='header_container']/div[2]/div/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>ade6ecbf-539f-495c-9683-84f2584283f9</webElementGuid>
+      <webElementGuid>f8a20474-3605-449d-8cea-35cf5d8433b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select_container</value>
-      <webElementGuid>f76409bd-f7b9-4f1f-881b-3cc93035c813</webElementGuid>
+      <webElementGuid>45c9c3ac-e264-4247-ad76-8aefce86527c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Name (A to Z)Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)</value>
-      <webElementGuid>584fd5e7-15d1-475d-b2cd-c6fb31f4e949</webElementGuid>
+      <webElementGuid>bd9279ca-4078-4335-b6f3-ec65602c9e31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;header_container&quot;)/div[@class=&quot;header_secondary_container&quot;]/div[@class=&quot;right_component&quot;]/span[@class=&quot;select_container&quot;]</value>
-      <webElementGuid>49f275b5-71eb-4b99-8faf-9ffc77816ddb</webElementGuid>
+      <webElementGuid>7962f889-f824-431f-af23-ee4384bfee39</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='header_container']/div[2]/div/span</value>
-      <webElementGuid>df0facf3-3630-48fe-8fb7-78026056bc19</webElementGuid>
+      <webElementGuid>8c822c62-d670-4aee-ad97-654066d52eb7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[1]/following::span[1]</value>
-      <webElementGuid>8aca7d1e-9a5d-4727-9406-c3b0b9790cb0</webElementGuid>
+      <webElementGuid>1f2e26f3-262e-4223-8958-89e0402f8b1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Swag Labs'])[2]/following::span[2]</value>
-      <webElementGuid>f491a00a-6e21-4add-9731-75a969ba0ed6</webElementGuid>
+      <webElementGuid>b4076272-e837-4d5c-84fb-4e3f0d023667</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sauce Labs Backpack'])[1]/preceding::span[2]</value>
-      <webElementGuid>31eb09d1-8802-437c-b1b6-28ec576db645</webElementGuid>
+      <webElementGuid>ac281de8-c518-4575-a4ab-fb6323fae96b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/span</value>
-      <webElementGuid>19a5db15-6037-4f57-91ad-dc5561373e9b</webElementGuid>
+      <webElementGuid>9904b143-d0fb-42e2-b3c5-9db32835afa5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Name (A to Z)Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)' or . = 'Name (A to Z)Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)')]</value>
-      <webElementGuid>c3cda546-b59b-4b48-aa82-637a9be6ea5b</webElementGuid>
+      <webElementGuid>fe17bf2e-d9ab-4392-9fec-e2da289062af</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

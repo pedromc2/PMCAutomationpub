@@ -15,7 +15,7 @@
       <guid>c28dc419-69e7-4d28-b2c6-fe0884f1ff96</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Askblue_Training/Login_Positivo</testCaseId>
+      <testCaseId>Test Cases/Askblue_Training/Login_Logout/Login_Positivo</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>8062828f-9e69-411a-b3bd-ab3acafd2ee5</id>

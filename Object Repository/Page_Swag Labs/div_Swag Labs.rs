@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>bc69f78b-ed55-4a9b-85f0-c5f22bc76590</webElementGuid>
+      <webElementGuid>091ad7e3-70a5-455a-a19a-b678007092ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>app_logo</value>
-      <webElementGuid>7a91f26c-cb75-4bc2-86d4-21aeb0aed601</webElementGuid>
+      <webElementGuid>a28bb399-054a-4786-b88e-537c347d6609</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Swag Labs</value>
-      <webElementGuid>460936f4-371c-49f0-b183-7264914ec67e</webElementGuid>
+      <webElementGuid>7f705bcd-5ef1-414e-ab73-823ab66ae9b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;header_container&quot;)/div[@class=&quot;primary_header&quot;]/div[@class=&quot;header_label&quot;]/div[@class=&quot;app_logo&quot;]</value>
-      <webElementGuid>c88bf1b2-83dc-4b1a-96c8-44b0ecc12eda</webElementGuid>
+      <webElementGuid>52a1ee51-b418-422d-9298-69ec85f7c3f8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='header_container']/div/div[2]/div</value>
-      <webElementGuid>4132ba47-9347-469f-b2e2-0c23af9ab7fb</webElementGuid>
+      <webElementGuid>eae5371c-6b19-43fd-8d23-c7ef5ab811e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Menu'])[1]/following::div[2]</value>
-      <webElementGuid>15bf5212-0c4e-40c1-b51e-9ced43b1042c</webElementGuid>
+      <webElementGuid>9aa3d39a-a87a-4737-a5e5-76c1d207ddcf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/following::div[4]</value>
-      <webElementGuid>e32c2dd5-c21b-4b29-9f17-3dbd15e5cefb</webElementGuid>
+      <webElementGuid>679eff3c-a11a-4922-8929-35de29f5586f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[1]/preceding::div[2]</value>
-      <webElementGuid>87b3ec2c-aeed-4af6-a290-6f2b5abb6422</webElementGuid>
+      <webElementGuid>38e9b112-a570-4ec6-a869-7154c3649b33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Name (A to Z)'])[1]/preceding::div[2]</value>
-      <webElementGuid>ddbe07be-88f7-4023-ae0e-a10c84f32934</webElementGuid>
+      <webElementGuid>aaf9b0df-ca81-4c14-82d0-c963fb3662cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/div/div[2]/div</value>
-      <webElementGuid>479853a3-e1fe-441a-8157-0984e83e00e9</webElementGuid>
+      <webElementGuid>ab214e5e-c9b6-4e3d-a333-9de00502a308</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Swag Labs' or . = 'Swag Labs')]</value>
-      <webElementGuid>a758b055-5023-438d-ae1c-bdb64e77ad17</webElementGuid>
+      <webElementGuid>aacd5be6-ef54-4ae4-8565-d6fb44589349</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

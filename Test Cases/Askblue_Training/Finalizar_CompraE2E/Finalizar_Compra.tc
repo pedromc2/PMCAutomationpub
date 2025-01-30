@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Finalizar_Compra</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb18949d-de48-4587-b631-ccb359bd2ed7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8eea8a1e-5ab8-42c4-95ea-739d457d0cbd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>0.08</defaultValue>
+      <description></description>
+      <id>8eea8a1e-5ab8-42c4-95ea-739d457d0cbd</id>
+      <masked>false</masked>
+      <name>tax</name>
+   </variable>
+</TestCaseEntity>

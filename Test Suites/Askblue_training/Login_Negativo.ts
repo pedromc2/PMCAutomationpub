@@ -15,14 +15,14 @@
       <guid>2be55d0a-55ee-4810-9901-627a5803270c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Askblue_Training/Login_Negativo_UserPassVazio</testCaseId>
+      <testCaseId>Test Cases/Askblue_Training/Login_Logout/Login_Negativo_UserPassVazio</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>fd153ea5-cbcf-4670-bf22-836e3fba3248</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Askblue_Training/Login_Negativo_UserBloqueado</testCaseId>
+      <testCaseId>Test Cases/Askblue_Training/Login_Logout/Login_Negativo_UserBloqueado</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -41,7 +41,7 @@
       <guid>482e101c-06b3-4c3b-a5f5-81fa54a5de82</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Askblue_Training/Login_Negativo_PassVazia</testCaseId>
+      <testCaseId>Test Cases/Askblue_Training/Login_Logout/Login_Negativo_PassVazia</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -60,7 +60,7 @@
       <guid>901a8d4a-ab9e-4a3f-b232-d8dbac41f9c9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Askblue_Training/Login_Negativo_PassIncorreta</testCaseId>
+      <testCaseId>Test Cases/Askblue_Training/Login_Logout/Login_Negativo_PassIncorreta</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>5388ba0a-3cb4-464e-846b-e0d2d7ad05b0</id>

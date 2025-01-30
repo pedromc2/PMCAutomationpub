@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Adiciona todos os itens ao carrinho e verifica se o item está dentro d carrinho e se o preço corresponde ao preço apresentado no ecrã inicial</description>
+   <name>Add_to_Cart_Todos</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e69dc15-0335-4cda-a213-51784ab55348</testCaseGuid>
+</TestCaseEntity>
